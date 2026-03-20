@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mellamogamer" alt="mellamogamer" /></a> </p>
 
-- 🔭 I’m currently working on [WhatsNet](https://github.com/MeLlamoGamer/WhatsNET_Client)
+- 🔭 I’m currently working on [NetLauncher](https://github.com/MeLlamoGamer/NetLauncher)
 
 - 🌱 I’m currently learning **C#, Lua and HTML**
 
